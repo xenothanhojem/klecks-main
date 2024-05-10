@@ -1,0 +1,1562 @@
+{
+  "switch-ui-left-right": {
+    hint: "Button that switches layout from left to right, to accommodate left handed & right handed visitors.",
+    original: "Switch left/right UI",
+    value: "Switch left/right UI",
+  },
+  "toggle-show-tools": {
+    hint: "Button that hides/shows the toolbar.",
+    original: "Show/Hide Tools",
+    value: "Show/Hide Tools",
+  },
+  scroll: {
+    hint: "Verb. As in scrolling a page.",
+    original: "Scroll",
+    value: "Scroll",
+  },
+  donate: {
+    original: "Donate",
+    value: "Donate",
+  },
+  home: {
+    hint: "button with logo, top left of tools",
+    original: "Home",
+    value: "Home",
+  },
+  "modal-new-tab": {
+    hint: "as in browser tab",
+    original: "Open in new tab",
+    value: "Open in new tab",
+  },
+  "tab-edit": {
+    hint: "label for a tab that offer filters for making color adjustments, cropping, transforming, etc.",
+    original: "Edit",
+    value: "Edit",
+  },
+  "tab-file": {
+    hint: "label for a tab that lets user save the image, import, upload, etc.",
+    original: "File",
+    value: "File",
+  },
+  "tool-brush": {
+    hint: "tool that lets user paint (like in ms paint or photoshop)",
+    original: "Brush",
+    value: "Brush",
+  },
+  "tool-paint-bucket": {
+    original: "Paint Bucket",
+    value: "Paint Bucket",
+  },
+  "tool-gradient": {
+    original: "Gradient",
+    value: "Gradient",
+  },
+  "tool-shape": {
+    hint: "Tool for drawing rectangles, circles, lines",
+    original: "Shape",
+    value: "Shape",
+  },
+  "tool-text": {
+    hint: "Tool for placing text on canvas",
+    original: "Text",
+    value: "Text",
+  },
+  "tool-hand": {
+    hint: "Tool for navigating (or scrolling around) the canvas. Same name in Photoshop.",
+    original: "Hand Tool",
+    value: "Hand Tool",
+  },
+  "tool-zoom": {
+    original: "Zoom",
+    value: "Zoom",
+  },
+  undo: {
+    original: "Undo",
+    value: "Undo",
+  },
+  redo: {
+    original: "Redo",
+    value: "Redo",
+  },
+  "brush-pen": {
+    hint: "Generic \"brush\" that feels a bit like a pen or marker, as opposed to a paint brush.",
+    original: "Pen",
+    value: "Pen",
+  },
+  "brush-blend": {
+    hint: "brush with watercolor feel. Makes colors blend/bleed into each other. Different from smudging though.",
+    original: "Blend",
+    value: "Blend",
+  },
+  "brush-sketchy": {
+    hint: "Made up brush name. Pictures drawn with this brush often look like sketches.",
+    original: "Sketchy",
+    value: "Sketchy",
+  },
+  "brush-pixel": {
+    original: "Pixel",
+    value: "Pixel",
+  },
+  "brush-chemy": {
+    hint: "Made up brush name, derived from drawing applications \"Webchemy\" and \"Alchemy\"",
+    original: "Chemy",
+    value: "Chemy",
+  },
+  "brush-smudge": {
+    hint: "Common brush/tool in image editing software. Smudges colors around canvas.",
+    original: "Smudge",
+    value: "Smudge",
+  },
+  "brush-size": {
+    original: "Size",
+    value: "Size",
+  },
+  "brush-blending": {
+    hint: "Wetness. How much colors will bleed into each other.",
+    original: "Blending",
+    value: "Blending",
+  },
+  "brush-toggle-pressure": {
+    hint: "google \"pressure sensitivity\". Feature of Wacom tablets, Apple Pencil, XP Pen, etc.",
+    original: "Toggle Pressure Sensitivity",
+    value: "Toggle Pressure Sensitivity",
+  },
+  "brush-pen-circle": {
+    hint: "as in circle shape",
+    original: "Circle",
+    value: "Circle",
+  },
+  "brush-pen-chalk": {
+    hint: "as in chalk texture",
+    original: "Chalk",
+    value: "Chalk",
+  },
+  "brush-pen-calligraphy": {
+    hint: "like a \"chisel tip marker\"",
+    original: "Calligraphy",
+    value: "Calligraphy",
+  },
+  "brush-pen-square": {
+    hint: "as in square shape",
+    original: "Square",
+    value: "Square",
+  },
+  "brush-sketchy-scale": {
+    hint: "How far the connecting lines of sketchy brush can reach.",
+    original: "Scale",
+    value: "Scale",
+  },
+  "brush-pixel-dither": {
+    hint: "Dithering/halftone pattern",
+    original: "Dither",
+    value: "Dither",
+  },
+  "brush-chemy-fill": {
+    hint: "Like in MS Paint. A shape can have be outlined, and filled.",
+    original: "Fill",
+    value: "Fill",
+  },
+  "brush-chemy-stroke": {
+    original: "Stroke",
+    value: "Stroke",
+  },
+  "brush-chemy-mirror-x": {
+    original: "Horizontal Symmetry",
+    value: "Horizontal Symmetry",
+  },
+  "brush-chemy-mirror-y": {
+    original: "Vertical Symmetry",
+    value: "Vertical Symmetry",
+  },
+  "brush-chemy-gradient": {
+    hint: "as in color gradient",
+    original: "Gradient",
+    value: "Gradient",
+  },
+  "brush-eraser-transparent-bg": {
+    hint: "as in transparent background/bottom layer",
+    original: "Transparent Background",
+    value: "Transparent Background",
+  },
+  stabilizer: {
+    hint: "Common feature in drawing software to make lines smoother",
+    original: "Stabilizer",
+    value: "Stabilizer",
+  },
+  "stabilizer-title": {
+    hint: "-title keys are usually more verbose description. shown as a tooltip.",
+    original: "Stroke Stabilizer",
+    value: "Stroke Stabilizer",
+  },
+  eyedropper: {
+    original: "Eyedropper",
+    value: "Eyedropper",
+  },
+  "secondary-color": {
+    hint: "or sometimes called \"background\" color. Photoshop, MS Paint, etc. allow user to switch between two colors.",
+    original: "Secondary Color",
+    value: "Secondary Color",
+  },
+  "manual-color-input": {
+    hint: "A dialog where users can manually type the color, each channel a number. \"mci\" keys all related to this dialog.",
+    original: "Manual Color Input",
+    value: "Manual Color Input",
+  },
+  "mci-hex": {
+    hint: "as in hex code. Hex representation of color. \u201e#f00\u201c \u2192 red",
+    original: "Hex",
+    value: "Hex",
+  },
+  "mci-copy": {
+    hint: "verb",
+    original: "Copy",
+    value: "Copy",
+  },
+  "modal-ok": {
+    hint: "main confirmation button in dialogs. Can be to confirm an action, not just acknowledge information.",
+    original: "Ok",
+    value: "Ok",
+  },
+  "modal-cancel": {
+    original: "Cancel",
+    value: "Cancel",
+  },
+  "modal-close": {
+    hint: "as in close a dialog box",
+    original: "Close",
+    value: "Close",
+  },
+  "layers-active-layer": {
+    hint: "currently selected layer that user is drawing on",
+    original: "Active Layer",
+    value: "Active Layer",
+  },
+  "layers-layer": {
+    original: "Layer",
+    value: "Layer",
+  },
+  "layers-copy": {
+    hint: "noun",
+    original: "copy",
+    value: "copy",
+  },
+  "layers-blending": {
+    hint: "Common feature in image editing & drawing software. All layers-blend- keys relate to this. https://en.wikipedia.org/wiki/Blend_modes",
+    original: "Blending",
+    value: "Blending",
+  },
+  "layers-new": {
+    hint: "action",
+    original: "New Layer",
+    value: "New Layer",
+  },
+  "layers-remove": {
+    hint: "action",
+    original: "Remove Layer",
+    value: "Remove Layer",
+  },
+  "layers-duplicate": {
+    hint: "action",
+    original: "Duplicate Layer",
+    value: "Duplicate Layer",
+  },
+  "layers-merge": {
+    hint: "action",
+    original: "Merge with layer below",
+    value: "Merge with layer below",
+  },
+  "layers-merge-all": {
+    original: "Merge all",
+    value: "Merge all",
+  },
+  "layers-rename": {
+    hint: "action",
+    original: "Rename",
+    value: "Rename",
+  },
+  "layers-active-layer-visible": {
+    original: "Active layer is visible",
+    value: "Active layer is visible",
+  },
+  "layers-active-layer-hidden": {
+    original: "Active layer is hidden",
+    value: "Active layer is hidden",
+  },
+  "layers-visibility-toggle": {
+    original: "Layer Visibility",
+    value: "Layer Visibility",
+  },
+  "layers-blend-normal": {
+    original: "normal",
+    value: "normal",
+  },
+  "layers-blend-darken": {
+    original: "darken",
+    value: "darken",
+  },
+  "layers-blend-multiply": {
+    original: "multiply",
+    value: "multiply",
+  },
+  "layers-blend-color-burn": {
+    original: "color burn",
+    value: "color burn",
+  },
+  "layers-blend-lighten": {
+    original: "lighten",
+    value: "lighten",
+  },
+  "layers-blend-screen": {
+    original: "screen",
+    value: "screen",
+  },
+  "layers-blend-color-dodge": {
+    original: "color dodge",
+    value: "color dodge",
+  },
+  "layers-blend-overlay": {
+    original: "overlay",
+    value: "overlay",
+  },
+  "layers-blend-soft-light": {
+    original: "soft light",
+    value: "soft light",
+  },
+  "layers-blend-hard-light": {
+    original: "hard light",
+    value: "hard light",
+  },
+  "layers-blend-difference": {
+    original: "difference",
+    value: "difference",
+  },
+  "layers-blend-exclusion": {
+    original: "exclusion",
+    value: "exclusion",
+  },
+  "layers-blend-hue": {
+    original: "hue",
+    value: "hue",
+  },
+  "layers-blend-saturation": {
+    original: "saturation",
+    value: "saturation",
+  },
+  "layers-blend-color": {
+    original: "color",
+    value: "color",
+  },
+  "layers-blend-luminosity": {
+    original: "luminosity",
+    value: "luminosity",
+  },
+  "layers-rename-title": {
+    hint: "-title in code usually means it shows up in a tooltip, or it\u2019s the header of a dialog box, so it can be a little bit longer.",
+    original: "Rename Layer",
+    value: "Rename Layer",
+  },
+  "layers-rename-name": {
+    hint: "noun",
+    original: "Name",
+    value: "Name",
+  },
+  "layers-rename-clear": {
+    hint: "aka action of deleting entered name",
+    original: "Clear Name",
+    value: "Clear Name",
+  },
+  "layers-rename-sketch": {
+    hint: "noun. Name suggestion for a layer",
+    original: "Sketch",
+    value: "Sketch",
+  },
+  "layers-rename-colors": {
+    hint: "noun. Name suggestion for a layer",
+    original: "Colors",
+    value: "Colors",
+  },
+  "layers-rename-shading": {
+    hint: "noun. Name suggestion for a layer",
+    original: "Shading",
+    value: "Shading",
+  },
+  "layers-rename-lines": {
+    hint: "noun. Name suggestion for a layer",
+    original: "Lines",
+    value: "Lines",
+  },
+  "layers-rename-effects": {
+    hint: "noun. Name suggestion for a layer",
+    original: "Effects",
+    value: "Effects",
+  },
+  "layers-rename-foreground": {
+    hint: "noun. Name suggestion for a layer",
+    original: "Foreground",
+    value: "Foreground",
+  },
+  "layers-merge-modal-title": {
+    original: "Merge/Mix Layers",
+    value: "Merge/Mix Layers",
+  },
+  "layers-merge-description": {
+    hint: "After \":\" a list of mix/blend modes is shown.",
+    original: "Merges the selected layer with the one underneath. Select the mix mode:",
+    value: "Merges the selected layer with the one underneath. Select the mix mode:",
+  },
+  "file-no-autosave": {
+    hint: "let user know they can't autosave, and there's no cloud storage. Keep short so fits on one line",
+    original: "No autosave, no cloud storage",
+    value: "No autosave, no cloud storage",
+  },
+  "file-new": {
+    hint: "action",
+    original: "New",
+    value: "New",
+  },
+  "file-import": {
+    hint: "action",
+    original: "Import",
+    value: "Import",
+  },
+  "file-save": {
+    hint: "action",
+    original: "Save",
+    value: "Save",
+  },
+  "file-format": {
+    original: "File Format",
+    value: "File Format",
+  },
+  "file-copy": {
+    hint: "verb",
+    original: "Copy",
+    value: "Copy",
+  },
+  "file-copy-title": {
+    original: "Copy To Clipboard",
+    value: "Copy To Clipboard",
+  },
+  "file-share": {
+    hint: "Common feature on phones. Pressing share button allows to send data to a different app, e.g. as a text message to someone.",
+    original: "Share",
+    value: "Share",
+  },
+  "file-storage": {
+    hint: "Made up term. Allows users to store drawing in the browser. (not synced across devices)",
+    original: "Browser Storage",
+    value: "Browser Storage",
+  },
+  "file-storage-thumb-title": {
+    hint: "when reopening or reloading",
+    original: "Restores when reopening page",
+    value: "Restores when reopening page",
+  },
+  "file-storage-about": {
+    hint: "link to Browser Storage help/user manual",
+    original: "About Browser Storage",
+    value: "About Browser Storage",
+  },
+  "file-storage-cant-access": {
+    hint: "an error. Can\u2019t access the storage.",
+    original: "Can't access",
+    value: "Can't access",
+  },
+  "file-storage-empty": {
+    hint: "nothing stored",
+    original: "Empty",
+    value: "Empty",
+  },
+  "file-storage-store": {
+    hint: "verb",
+    original: "Store",
+    value: "Store",
+  },
+  "file-storage-clear": {
+    original: "Clear",
+    value: "Clear",
+  },
+  "file-storage-storing": {
+    hint: "while it is in the process of storing",
+    original: "Storing",
+    value: "Storing",
+  },
+  "file-storage-overwrite": {
+    hint: "overwrite what is already stored",
+    original: "Overwrite",
+    value: "Overwrite",
+  },
+  "file-storage-min-ago": {
+    hint: "{x} <- needs to stay, it's a placeholder.",
+    original: "{x}min ago",
+    value: "{x}min ago",
+  },
+  "file-storage-hours-ago": {
+    original: "{x}h ago",
+    value: "{x}h ago",
+  },
+  "file-storage-days-ago": {
+    original: "{x}d ago",
+    value: "{x}d ago",
+  },
+  "file-storage-month-ago": {
+    original: "> 1month ago",
+    value: "> 1month ago",
+  },
+  "file-storage-restored": {
+    original: "Restored from Browser Storage",
+    value: "Restored from Browser Storage",
+  },
+  "file-storage-stored": {
+    original: "Stored to Browser Storage",
+    value: "Stored to Browser Storage",
+  },
+  "file-storage-failed": {
+    original: "Failed to store to Browser Storage",
+    value: "Failed to store to Browser Storage",
+  },
+  "file-storage-failed-1": {
+    original: "Failed to store. Possible causes:",
+    value: "Failed to store. Possible causes:",
+  },
+  "file-storage-failed-2": {
+    original: "Out of disk space",
+    value: "Out of disk space",
+  },
+  "file-storage-failed-3": {
+    original: "Storage disabled in incognito tab",
+    value: "Storage disabled in incognito tab",
+  },
+  "file-storage-failed-4": {
+    hint: "as in: unsupported feature",
+    original: "Browser doesn't support storage",
+    value: "Browser doesn't support storage",
+  },
+  "file-storage-failed-clear": {
+    original: "Failed to clear.",
+    value: "Failed to clear.",
+  },
+  "file-upload": {
+    hint: "verb",
+    original: "Upload",
+    value: "Upload",
+  },
+  "cleared-layer": {
+    hint: "the layer has been cleared. It is now empty",
+    original: "Cleared layer",
+    value: "Cleared layer",
+  },
+  filled: {
+    hint: "layer got filled with a color",
+    original: "Filled",
+    value: "Filled",
+  },
+  "new-title": {
+    original: "New Image",
+    value: "New Image",
+  },
+  "new-current": {
+    hint: "as in \"reuse the current image resolution\"",
+    original: "Current",
+    value: "Current",
+  },
+  "new-fit": {
+    hint: "make dimensions of image fit your window size",
+    original: "Fit",
+    value: "Fit",
+  },
+  "new-oversize": {
+    hint: "like oversized clothes.",
+    original: "Oversize",
+    value: "Oversize",
+  },
+  "new-square": {
+    hint: "square image format",
+    original: "Square",
+    value: "Square",
+  },
+  "new-landscape": {
+    hint: "https://en.wikipedia.org/wiki/Page_orientation",
+    original: "Landscape",
+    value: "Landscape",
+  },
+  "new-portrait": {
+    original: "Portrait",
+    value: "Portrait",
+  },
+  "new-screen": {
+    hint: "resolution of computer screen",
+    original: "Screen",
+    value: "Screen",
+  },
+  "new-video": {
+    hint: "dimensions of a video (usually 16:9)",
+    original: "Video",
+    value: "Video",
+  },
+  "new-din-paper": {
+    hint: "https://en.wikipedia.org/wiki/Paper_size",
+    original: "DIN Paper",
+    value: "DIN Paper",
+  },
+  "new-px": {
+    hint: "abbreviation of pixel",
+    original: "px",
+    value: "px",
+  },
+  "new-ratio": {
+    hint: "aspect ratio",
+    original: "Ratio",
+    value: "Ratio",
+  },
+  "upload-title": {
+    hint: "\"Imgur\" is a website name.",
+    original: "Upload to Imgur",
+    value: "Upload to Imgur",
+  },
+  "upload-link-notice": {
+    hint: "Explaining to user even though their upload is unlisted, they should be careful who they share the link with. No password protection.",
+    original: "Anyone with the link to your uploaded image will be able to view it.",
+    value: "Anyone with the link to your uploaded image will be able to view it.",
+  },
+  "upload-name": {
+    hint: "noun",
+    original: "Title",
+    value: "Title",
+  },
+  "upload-title-untitled": {
+    original: "Untitled",
+    value: "Untitled",
+  },
+  "upload-caption": {
+    hint: "as in image caption / description",
+    original: "Caption",
+    value: "Caption",
+  },
+  "upload-submit": {
+    hint: "verb",
+    original: "Upload",
+    value: "Upload",
+  },
+  "upload-uploading": {
+    hint: "in the process of uploading",
+    original: "Uploading...",
+    value: "Uploading...",
+  },
+  "upload-success": {
+    original: "Upload Successful",
+    value: "Upload Successful",
+  },
+  "upload-failed": {
+    original: "Upload failed.",
+    value: "Upload failed.",
+  },
+  "upload-delete": {
+    original: "To delete your image from Imgur visit:",
+    value: "To delete your image from Imgur visit:",
+  },
+  "cropcopy-title-copy": {
+    original: "Copy To Clipboard",
+    value: "Copy To Clipboard",
+  },
+  "cropcopy-title-crop": {
+    hint: "Cropping is a common feature in image editing.",
+    original: "Crop",
+    value: "Crop",
+  },
+  "cropcopy-click-hold": {
+    original: "Right-click or press hold to copy.",
+    value: "Right-click or press hold to copy.",
+  },
+  "cropcopy-btn-copy": {
+    hint: "confirmation button. Should be short.",
+    original: "To Clipboard",
+    value: "To Clipboard",
+  },
+  "cropcopy-copied": {
+    original: "Copied.",
+    value: "Copied.",
+  },
+  "cropcopy-btn-crop": {
+    hint: "confirmation button. Should be short.",
+    original: "Apply Crop",
+    value: "Apply Crop",
+  },
+  "crop-drag-to-crop": {
+    hint: "drag the mouse to adjust cropping",
+    original: "Drag to crop",
+    value: "Drag to crop",
+  },
+  "filter-crop-extend": {
+    original: "Crop/Extend",
+    value: "Crop/Extend",
+  },
+  "filter-flip": {
+    original: "Flip",
+    value: "Flip",
+  },
+  "filter-perspective": {
+    hint: "perspective transformation",
+    original: "Perspective",
+    value: "Perspective",
+  },
+  "filter-resize": {
+    original: "Resize",
+    value: "Resize",
+  },
+  "filter-rotate": {
+    original: "Rotate",
+    value: "Rotate",
+  },
+  "filter-transform": {
+    hint: "more generic transformation. Commonly known as \"free transform\"",
+    original: "Transform",
+    value: "Transform",
+  },
+  "filter-bright-contrast": {
+    hint: "brightness contrast",
+    original: "Bright/Contrast",
+    value: "Bright/Contrast",
+  },
+  "filter-curves": {
+    hint: "color curves",
+    original: "Curves",
+    value: "Curves",
+  },
+  "filter-hue-sat": {
+    original: "Hue/Saturation",
+    value: "Hue/Saturation",
+  },
+  "filter-invert": {
+    hint: "invert the colors",
+    original: "Invert",
+    value: "Invert",
+  },
+  "filter-tilt-shift": {
+    hint: "or just depth-of-field. https://en.wikipedia.org/wiki/Tilt%E2%80%93shift_photography",
+    original: "Tilt Shift",
+    value: "Tilt Shift",
+  },
+  "filter-to-alpha": {
+    hint: "feature that can isolate line drawings if it is a black and white image.",
+    original: "To Alpha",
+    value: "To Alpha",
+  },
+  "filter-triangle-blur": {
+    hint: "or just blur",
+    original: "Triangle Blur",
+    value: "Triangle Blur",
+  },
+  "filter-unsharp-mask": {
+    hint: "or just sharpen, https://en.wikipedia.org/wiki/Unsharp_masking",
+    original: "Unsharp Mask",
+    value: "Unsharp Mask",
+  },
+  "filter-crop-title": {
+    hint: "same as the button, but can be longer",
+    original: "Crop / Extend",
+    value: "Crop / Extend",
+  },
+  "filter-crop-description": {
+    hint: "descriptions explain the \"filter\" a tiny bit. Most importantly it says if it\u2019s applied to a single layer, or the entire image (all layer)",
+    original: "Crop or extend the image.",
+    value: "Crop or extend the image.",
+  },
+  "filter-crop-left": {
+    original: "Left",
+    value: "Left",
+  },
+  "filter-crop-right": {
+    original: "Right",
+    value: "Right",
+  },
+  "filter-crop-top": {
+    original: "Top",
+    value: "Top",
+  },
+  "filter-crop-bottom": {
+    original: "Bottom",
+    value: "Bottom",
+  },
+  "filter-crop-rule-thirds": {
+    hint: "https://en.wikipedia.org/wiki/Rule_of_thirds",
+    original: "Rule of Thirds",
+    value: "Rule of Thirds",
+  },
+  "filter-crop-fill": {
+    hint: "If image gets extended, what color to fill that new area with",
+    original: "Fill",
+    value: "Fill",
+  },
+  "filter-flip-title": {
+    hint: "same as the button, but can be longer",
+    original: "Flip",
+    value: "Flip",
+  },
+  "filter-flip-description": {
+    original: "Flips layer or whole image.",
+    value: "Flips layer or whole image.",
+  },
+  "filter-flip-horizontal": {
+    original: "Horizontal",
+    value: "Horizontal",
+  },
+  "filter-flip-vertical": {
+    original: "Vertical",
+    value: "Vertical",
+  },
+  "filter-flip-image": {
+    original: "Flip Image",
+    value: "Flip Image",
+  },
+  "filter-flip-layer": {
+    original: "Flip Layer",
+    value: "Flip Layer",
+  },
+  "filter-perspective-title": {
+    hint: "same as the button, but can be longer",
+    original: "Perspective",
+    value: "Perspective",
+  },
+  "filter-perspective-description": {
+    original: "Transforms the selected layer.",
+    value: "Transforms the selected layer.",
+  },
+  "filter-resize-title": {
+    hint: "same as the button, but can be longer",
+    original: "Resize",
+    value: "Resize",
+  },
+  "filter-resize-description": {
+    original: "Resizes the image.",
+    value: "Resizes the image.",
+  },
+  "filter-rotate-title": {
+    hint: "same as the button, but can be longer",
+    original: "Rotate",
+    value: "Rotate",
+  },
+  "filter-rotate-description": {
+    original: "Rotates the image.",
+    value: "Rotates the image.",
+  },
+  "filter-transform-empty": {
+    hint: "nothing on the layer, just transparency",
+    original: "Layer is empty.",
+    value: "Layer is empty.",
+  },
+  "filter-transform-title": {
+    hint: "same as the button, but can be longer",
+    original: "Transform",
+    value: "Transform",
+  },
+  "filter-transform-description": {
+    hint: "as in the Shift key.",
+    original: "Transforms selected layer. Hold Shift for additional behavior.",
+    value: "Transforms selected layer. Hold Shift for additional behavior.",
+  },
+  "filter-transform-rotation": {
+    hint: "or Angle",
+    original: "Rotation",
+    value: "Rotation",
+  },
+  "filter-transform-flip": {
+    original: "Flip",
+    value: "Flip",
+  },
+  "filter-transform-center": {
+    hint: "verb or noun",
+    original: "Center",
+    value: "Center",
+  },
+  "filter-transform-constrain": {
+    hint: "short version of \"constrain proportions\" \u2013 feature that locks the aspect ratio",
+    original: "Constrain",
+    value: "Constrain",
+  },
+  "filter-transform-snap": {
+    hint: "or snapping. Common feature in graphics software. Makes stuff snap into place so it\u2019s easier to align elements in an image",
+    original: "Snap",
+    value: "Snap",
+  },
+  "filter-transform-snap-title": {
+    hint: "same as above, but as a tooltip",
+    original: "Snap Rotation And Position",
+    value: "Snap Rotation And Position",
+  },
+  "filter-bright-contrast-title": {
+    hint: "same as the button, but can be longer",
+    original: "Brightness / Contrast",
+    value: "Brightness / Contrast",
+  },
+  "filter-bright-contrast-description": {
+    original: "Change brightness and contrast for the selected layer.",
+    value: "Change brightness and contrast for the selected layer.",
+  },
+  "filter-bright-contrast-brightness": {
+    original: "Brightness",
+    value: "Brightness",
+  },
+  "filter-bright-contrast-contrast": {
+    original: "Contrast",
+    value: "Contrast",
+  },
+  "filter-curves-title": {
+    hint: "same as the button, but can be longer",
+    original: "Curves",
+    value: "Curves",
+  },
+  "filter-curves-description": {
+    original: "Apply curves on the selected layer.",
+    value: "Apply curves on the selected layer.",
+  },
+  "filter-curves-all": {
+    original: "All",
+    value: "All",
+  },
+  "filter-hue-sat-title": {
+    hint: "same as the button, but can be longer",
+    original: "Hue / Saturation",
+    value: "Hue / Saturation",
+  },
+  "filter-hue-sat-description": {
+    original: "Change hue and saturation for the selected layer.",
+    value: "Change hue and saturation for the selected layer.",
+  },
+  "filter-hue-sat-hue": {
+    original: "Hue",
+    value: "Hue",
+  },
+  "filter-hue-sat-saturation": {
+    original: "Saturation",
+    value: "Saturation",
+  },
+  "filter-applied": {
+    hint: "used like this: \u201eInvert\u201c applied. Informs that a filter was applied",
+    original: "applied",
+    value: "applied",
+  },
+  "filter-tilt-shift-title": {
+    hint: "same as the button, but can be longer",
+    original: "Tilt Shift",
+    value: "Tilt Shift",
+  },
+  "filter-tilt-shift-description": {
+    original: "Applies tilt shift on the selected layer.",
+    value: "Applies tilt shift on the selected layer.",
+  },
+  "filter-tilt-shift-blur": {
+    hint: "words can be individually translated",
+    original: "Blur Radius",
+    value: "Blur Radius",
+  },
+  "filter-tilt-shift-gradient": {
+    hint: "words can be individually translated",
+    original: "Gradient Radius",
+    value: "Gradient Radius",
+  },
+  "filter-to-alpha-title": {
+    hint: "same as the button, but can be longer",
+    original: "To Alpha",
+    value: "To Alpha",
+  },
+  "filter-to-alpha-description": {
+    hint: "after \":\" follow two options",
+    original: "Generates alpha channel for selected layer from:",
+    value: "Generates alpha channel for selected layer from:",
+  },
+  "filter-to-alpha-inverted-lum": {
+    hint: "luminance is same as the layer blend mode \"luminosity\"",
+    original: "Inverted Luminance",
+    value: "Inverted Luminance",
+  },
+  "filter-to-alpha-lum": {
+    original: "Luminance",
+    value: "Luminance",
+  },
+  "filter-to-alpha-replace": {
+    hint: "What color to replace the rgb channels with",
+    original: "Replace RGB",
+    value: "Replace RGB",
+  },
+  "filter-triangle-blur-title": {
+    hint: "same as the button, but can be longer",
+    original: "Triangle Blur",
+    value: "Triangle Blur",
+  },
+  "filter-triangle-blur-description": {
+    original: "Applies triangle blur on the selected layer.",
+    value: "Applies triangle blur on the selected layer.",
+  },
+  "filter-unsharp-mask-title": {
+    hint: "same as the button, but can be longer",
+    original: "Unsharp Mask",
+    value: "Unsharp Mask",
+  },
+  "filter-unsharp-mask-description": {
+    original: "Sharpens the selected layer by scaling pixels away from the average of their neighbors.",
+    value: "Sharpens the selected layer by scaling pixels away from the average of their neighbors.",
+  },
+  "filter-unsharp-mask-strength": {
+    original: "Strength",
+    value: "Strength",
+  },
+  "filter-grid": {
+    original: "Grid",
+    value: "Grid",
+  },
+  "filter-grid-description": {
+    original: "Draws grid on selected layer.",
+    value: "Draws grid on selected layer.",
+  },
+  "filter-noise": {
+    original: "Noise",
+    value: "Noise",
+  },
+  "filter-noise-description": {
+    original: "Adds noise to selected layer.",
+    value: "Adds noise to selected layer.",
+  },
+  "filter-noise-scale": {
+    original: "Scale",
+    value: "Scale",
+  },
+  "filter-noise-alpha": {
+    original: "Alpha",
+    value: "Alpha",
+  },
+  "filter-pattern": {
+    original: "Pattern",
+    value: "Pattern",
+  },
+  "filter-pattern-description": {
+    original: "Generates pattern on selected layer. Drag the preview for further controls.",
+    value: "Generates pattern on selected layer. Drag the preview for further controls.",
+  },
+  "filter-distort": {
+    original: "Distort",
+    value: "Distort",
+  },
+  "filter-distort-description": {
+    original: "Distorts the selected layer.",
+    value: "Distorts the selected layer.",
+  },
+  "filter-distort-phase": {
+    original: "Phase",
+    value: "Phase",
+  },
+  "filter-distort-stepsize": {
+    original: "Step Size",
+    value: "Step Size",
+  },
+  "filter-distort-sync-xy": {
+    original: "Sync XY",
+    value: "Sync XY",
+  },
+  "filter-vanish-point": {
+    original: "Vanish Point",
+    value: "Vanish Point",
+  },
+  "filter-vanish-point-title": {
+    original: "Vanishing Point",
+    value: "Vanishing Point",
+  },
+  "filter-vanish-point-description": {
+    original: "Adds vanishing point to selected layer. Drag preview to move.",
+    value: "Adds vanishing point to selected layer. Drag preview to move.",
+  },
+  "filter-vanish-point-lines": {
+    hint: "As in: the number of lines",
+    original: "Lines",
+    value: "Lines",
+  },
+  "import-opening": {
+    hint: "in the process of opening a large file",
+    original: "Opening file...",
+    value: "Opening file...",
+  },
+  "import-title": {
+    original: "Import Image",
+    value: "Import Image",
+  },
+  "import-too-large": {
+    original: "Image too large, will be downscaled.",
+    value: "Image too large, will be downscaled.",
+  },
+  "import-btn-as-layer": {
+    hint: "import as layer. Button label, should be short",
+    original: "As Layer",
+    value: "As Layer",
+  },
+  "import-btn-as-image": {
+    hint: "import as image. Button label, should be short",
+    original: "As Image",
+    value: "As Image",
+  },
+  "import-as-layer-title": {
+    original: "Import Image as New Layer",
+    value: "Import Image as New Layer",
+  },
+  "import-as-layer-description": {
+    original: "Adjust the position of the imported image.",
+    value: "Adjust the position of the imported image.",
+  },
+  "import-as-layer-limit-reached": {
+    hint: "Kleki allows only a certain number of layers",
+    original: "Layer limit reached. Image will be placed on existing layer.",
+    value: "Layer limit reached. Image will be placed on existing layer.",
+  },
+  "import-as-layer-fit": {
+    hint: "verb. imported image made to fit inside canvas.",
+    original: "Fit",
+    value: "Fit",
+  },
+  "import-flatten": {
+    hint: "Turn image that has multiple layers into an image that has only one layer.",
+    original: "Flatten image",
+    value: "Flatten image",
+  },
+  "import-unsupported-file": {
+    hint: "e.g. user tried to open a WAV",
+    original: "Unsupported file type. See Help for supported types.",
+    value: "Unsupported file type. See Help for supported types.",
+  },
+  "import-broken-file": {
+    hint: "if an image file is broken",
+    original: "Couldn't load image. File might be corrupted.",
+    value: "Couldn't load image. File might be corrupted.",
+  },
+  "import-psd-unsupported": {
+    hint: "PSD is photoshop file format. flatten as in \u201eflatten image\u201c in photoshop. Merged all layers",
+    original: "Unsupported features. PSD had to be flattened.",
+    value: "Unsupported features. PSD had to be flattened.",
+  },
+  "import-psd-limited-support": {
+    hint: "PSD has lots of fancy features that Kleki doesn't have, so when importing a PSD it often has to simplify things. So it might look different compared to when opening in Photoshop. We\u2019re informing the user if they \"flatten\" the image it will be accurate despite losing layers. The user has to weigh, do they care about having layers, or do they care about it looking right.",
+    original: "PSD support is limited. Flattened will more likely look correct.",
+    value: "PSD support is limited. Flattened will more likely look correct.",
+  },
+  "import-psd-too-large": {
+    original: "Image exceeds maximum dimensions of {x} x {x} pixels. Unable to import.",
+    value: "Image exceeds maximum dimensions of {x} x {x} pixels. Unable to import.",
+  },
+  "import-psd-size": {
+    original: "Image size",
+    value: "Image size",
+  },
+  "hand-reset": {
+    hint: "resets zoom (to 100%) and rotation (to 0\u00b0)",
+    original: "Reset",
+    value: "Reset",
+  },
+  "hand-fit": {
+    hint: "makes canvas cover whole working area",
+    original: "Fit",
+    value: "Fit",
+  },
+  "bucket-tolerance": {
+    hint: "a common feature for paint bucket",
+    original: "Tolerance",
+    value: "Tolerance",
+  },
+  "bucket-sample": {
+    hint: "like \"taking a sample\"",
+    original: "Sample",
+    value: "Sample",
+  },
+  "bucket-sample-title": {
+    original: "Which layers to sample color from",
+    value: "Which layers to sample color from",
+  },
+  "bucket-sample-all": {
+    hint: "all layers",
+    original: "All",
+    value: "All",
+  },
+  "bucket-sample-active": {
+    hint: "currently active layer",
+    original: "Active",
+    value: "Active",
+  },
+  "bucket-sample-above": {
+    hint: "layer above active layer",
+    original: "Above",
+    value: "Above",
+  },
+  "bucket-grow": {
+    hint: "verb. Or expand.",
+    original: "Grow",
+    value: "Grow",
+  },
+  "bucket-grow-title": {
+    original: "Grow filled area (in pixels)",
+    value: "Grow filled area (in pixels)",
+  },
+  "bucket-contiguous": {
+    hint: "common setting for paint bucket in image editing software",
+    original: "Contiguous",
+    value: "Contiguous",
+  },
+  "bucket-contiguous-title": {
+    hint: "tooltip explaining Contiguous",
+    original: "Only fill connected areas",
+    value: "Only fill connected areas",
+  },
+  "gradient-linear": {
+    original: "Linear",
+    value: "Linear",
+  },
+  "gradient-linear-mirror": {
+    original: "Linear-Mirror",
+    value: "Linear-Mirror",
+  },
+  "gradient-radial": {
+    original: "Radial",
+    value: "Radial",
+  },
+  "shape-stroke": {
+    original: "Stroke",
+    value: "Stroke",
+  },
+  "shape-fill": {
+    original: "Fill",
+    value: "Fill",
+  },
+  "shape-rect": {
+    hint: "rectangle shape",
+    original: "Rectangle",
+    value: "Rectangle",
+  },
+  "shape-ellipse": {
+    hint: "ellipse shape",
+    original: "Ellipse",
+    value: "Ellipse",
+  },
+  "shape-line": {
+    original: "Line",
+    value: "Line",
+  },
+  "shape-line-width": {
+    original: "Line Width",
+    value: "Line Width",
+  },
+  "shape-outwards": {
+    hint: "grows shape from the center outwards",
+    original: "Outwards",
+    value: "Outwards",
+  },
+  "shape-fixed": {
+    hint: "fixed ratio of 1:1",
+    original: "Fixed 1:1",
+    value: "Fixed 1:1",
+  },
+  "text-instruction": {
+    original: "Click canvas to place text",
+    value: "Click canvas to place text",
+  },
+  "text-title": {
+    original: "Add Text",
+    value: "Add Text",
+  },
+  "text-text": {
+    original: "Text",
+    value: "Text",
+  },
+  "text-font": {
+    original: "Font",
+    value: "Font",
+  },
+  "text-placeholder": {
+    hint: "placeholder in text input.",
+    original: "Your text",
+    value: "Your text",
+  },
+  "text-color": {
+    original: "Color",
+    value: "Color",
+  },
+  "text-size": {
+    original: "Size",
+    value: "Size",
+  },
+  "text-line-height": {
+    original: "Line Height",
+    value: "Line Height",
+  },
+  "text-letter-spacing": {
+    original: "Letter Spacing",
+    value: "Letter Spacing",
+  },
+  "text-left": {
+    hint: "left, center, right text formatting like in Word",
+    original: "Left",
+    value: "Left",
+  },
+  "text-center": {
+    original: "Center",
+    value: "Center",
+  },
+  "text-right": {
+    original: "Right",
+    value: "Right",
+  },
+  "text-italic": {
+    original: "Italic",
+    value: "Italic",
+  },
+  "text-bold": {
+    original: "Bold",
+    value: "Bold",
+  },
+  "save-reminder-title": {
+    hint: "Save Reminder is a popup that shows up after 20 minutes of not saving. Allows user to save on the spot.",
+    original: "Unsaved Work",
+    value: "Unsaved Work",
+  },
+  "save-reminder-text": {
+    hint: "turns into: \"...saved in <strong>12 minutes</strong>. Save...\"",
+    original: "Image was not saved in {a} minutes{b}. Save now to prevent eventual loss.",
+    value: "Image was not saved in {a} minutes{b}. Save now to prevent eventual loss.",
+  },
+  "save-reminder-save-psd": {
+    original: "Save As PSD",
+    value: "Save As PSD",
+  },
+  "save-reminder-psd-layers": {
+    original: "PSD will remember all layers.",
+    value: "PSD will remember all layers.",
+  },
+  "backup-drawing": {
+    hint: "(Embed) If the upload failed, the user can backup/download their drawing.",
+    original: "You can backup your drawing.",
+    value: "You can backup your drawing.",
+  },
+  submit: {
+    original: "Submit",
+    value: "Submit",
+  },
+  "submit-title": {
+    hint: "tooltip when hovering \"Submit\" button",
+    original: "Submit Drawing",
+    value: "Submit Drawing",
+  },
+  "submit-prompt": {
+    hint: "Dialog asking for confirmation",
+    original: "Submit drawing?",
+    value: "Submit drawing?",
+  },
+  "submit-submitting": {
+    hint: "in the process of uploading",
+    original: "Submitting",
+    value: "Submitting",
+  },
+  "embed-init-loading": {
+    hint: "when opening the app",
+    original: "Loading app",
+    value: "Loading app",
+  },
+  "embed-init-waiting": {
+    hint: "The app is loaded, but it\u2019s still waiting for image",
+    original: "Waiting for image",
+    value: "Waiting for image",
+  },
+  unsaved: {
+    original: "Unsaved",
+    value: "Unsaved",
+  },
+  help: {
+    hint: "or user manual",
+    original: "Help",
+    value: "Help",
+  },
+  "tab-settings": {
+    original: "Settings",
+    value: "Settings",
+  },
+  "settings-language": {
+    original: "Language",
+    value: "Language",
+  },
+  "settings-language-reload": {
+    hint: "changes will be visible after reloading the page",
+    original: "Will update after reloading.",
+    value: "Will update after reloading.",
+  },
+  "settings-theme": {
+    original: "Theme",
+    value: "Theme",
+  },
+  "settings-save-reminder-label": {
+    original: "Save Reminder",
+    value: "Save Reminder",
+  },
+  "settings-save-reminder-disabled": {
+    original: "disabled",
+    value: "disabled",
+  },
+  "settings-save-reminder-confirm-title": {
+    original: "Turn off Save Reminder?",
+    value: "Turn off Save Reminder?",
+  },
+  "settings-save-reminder-confirm-a": {
+    original: "There is no autosave and browser tabs don't last forever. If you don't periodically save you will likely lose work.",
+    value: "There is no autosave and browser tabs don't last forever. If you don't periodically save you will likely lose work.",
+  },
+  "settings-save-reminder-confirm-b": {
+    original: "Disable at your own risk?",
+    value: "Disable at your own risk?",
+  },
+  "settings-save-reminder-confirm-disable": {
+    original: "Disable",
+    value: "Disable",
+  },
+  "theme-dark": {
+    original: "Dark",
+    value: "Dark",
+  },
+  "theme-light": {
+    original: "Light",
+    value: "Light",
+  },
+  "terms-of-service": {
+    original: "Terms of Service",
+    value: "Terms of Service",
+  },
+  licenses: {
+    hint: "as in software licenses",
+    original: "Licenses",
+    value: "Licenses",
+  },
+  "source-code": {
+    original: "Source Code",
+    value: "Source Code",
+  },
+  auto: {
+    hint: "automatically decided",
+    original: "auto",
+    value: "auto",
+  },
+  "zoom-in": {
+    original: "Zoom In",
+    value: "Zoom In",
+  },
+  "zoom-out": {
+    original: "Zoom Out",
+    value: "Zoom Out",
+  },
+  radius: {
+    original: "Radius",
+    value: "Radius",
+  },
+  "constrain-proportions": {
+    original: "Constrain Proportions",
+    value: "Constrain Proportions",
+  },
+  width: {
+    original: "Width",
+    value: "Width",
+  },
+  height: {
+    original: "Height",
+    value: "Height",
+  },
+  opacity: {
+    hint: "for layer opacity, brush opacity, text opacity, ...",
+    original: "Opacity",
+    value: "Opacity",
+  },
+  red: {
+    original: "Red",
+    value: "Red",
+  },
+  green: {
+    original: "Green",
+    value: "Green",
+  },
+  blue: {
+    original: "Blue",
+    value: "Blue",
+  },
+  eraser: {
+    hint: "noun. As short as possible",
+    original: "Eraser",
+    value: "Eraser",
+  },
+  center: {
+    hint: "verb",
+    original: "Center",
+    value: "Center",
+  },
+  layers: {
+    hint: "layers in the context of image editing software",
+    original: "Layers",
+    value: "Layers",
+  },
+  background: {
+    hint: "as in background layer",
+    original: "Background",
+    value: "Background",
+  },
+  "scaling-algorithm": {
+    hint: "Label for dropdown where user chooses which computer graphics algorithm should be used to scale the image",
+    original: "Scaling Algorithm",
+    value: "Scaling Algorithm",
+  },
+  "algorithm-smooth": {
+    original: "Smooth",
+    value: "Smooth",
+  },
+  "algorithm-pixelated": {
+    original: "Pixelated",
+    value: "Pixelated",
+  },
+  preview: {
+    hint: "subject. When applying a filter user sees a preview of what the result would look like.",
+    original: "Preview",
+    value: "Preview",
+  },
+  "angle-snap": {
+    hint: "Snapping. Like when transforming an image and it snaps to the side of the frame.",
+    original: "Snap",
+    value: "Snap",
+  },
+  "angle-snap-title": {
+    original: "45\u00b0 Angle Snapping",
+    value: "45\u00b0 Angle Snapping",
+  },
+  "lock-alpha": {
+    hint: "Short. Freezes the alpha channel of image. Images consist of 4 channels (red, green, blue, alpha). Alpha lock also found in Procreate and photoshop",
+    original: "Lock Alpha",
+    value: "Lock Alpha",
+  },
+  "lock-alpha-title": {
+    hint: "same as 'lock-alpha' but longer version. Shows up as a tooltip when hovering",
+    original: "Locks layer's alpha channel",
+    value: "Locks layer's alpha channel",
+  },
+  reverse: {
+    hint: "Reversing the direction of a color gradient",
+    original: "Reverse",
+    value: "Reverse",
+  },
+  "compare-before": {
+    original: "Before",
+    value: "Before",
+  },
+  "compare-after": {
+    original: "After",
+    value: "After",
+  },
+  loading: {
+    original: "Loading",
+    value: "Loading",
+  },
+  more: {
+    original: "More",
+    value: "More",
+  },
+  "x-minutes": {
+    original: "{x}min",
+    value: "{x}min",
+  },
+}
